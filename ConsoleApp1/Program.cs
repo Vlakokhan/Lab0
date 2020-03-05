@@ -14,7 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("Введiть перше число");
             string S1 = Console.ReadLine();
             int a = int.Parse(S1);
-            Console.WriteLine("Введiть друге число");
+            Console.WriteLine("Введiть друге число");//
             string S2 = Console.ReadLine();
             int b = int.Parse(S2);
             Example(a, b);
